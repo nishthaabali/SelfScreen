@@ -1,8 +1,8 @@
-## Breast Cancer Detection Using Machine Learning
-# Overview
+# Breast Cancer Detection Using Machine Learning
+### Overview
 This project focuses on the development of a machine learning model to predict the likelihood of breast cancer based on clinical and diagnostic data. The primary goal is to use a dataset containing features extracted from fine needle aspirates (FNA) of breast cancer tumors to classify whether a tumor is malignant or benign. The project utilizes various machine learning techniques to build a predictive model, optimize its performance, and create a user-friendly interface for deployment.
 
-# Project Details
+### Project Details
 
 Dataset: The model uses the Wisconsin Breast Cancer Dataset (WBCD), which consists of 30 feature attributes and the class labels ('malignant' and 'benign').
 
